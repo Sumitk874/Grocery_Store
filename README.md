@@ -1,4 +1,9 @@
 # Grocery Store Application
+![image](https://github.com/user-attachments/assets/d5b63569-f70f-4c27-a88f-5f89c0902bbf)
+![image](https://github.com/user-attachments/assets/d12656a3-e7eb-4b3d-a657-63181015a478)
+![image](https://github.com/user-attachments/assets/57dd17fa-dba4-479e-ab34-0e42674fe770)
+![image](https://github.com/user-attachments/assets/6268e385-4b53-41ce-b3cf-efe964b2f6eb)
+
 
 ## Overview
 
